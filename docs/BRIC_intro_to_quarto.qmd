@@ -26,7 +26,7 @@ execute:
 
 ::: columns
 ::: {.column width="55%"}
-<video data-autoplay src="images/juan.mp4">
+<video data-autoplay src="images/juan.mp4" >
 
 </video>
 
@@ -64,8 +64,19 @@ bit.ly/bricq
 :::
 ::::
 
-## How we code at BRIC? {.poll}
+## How we code at BRIC? {.poll} 
 
+::: {style="font-size: 1.2em; text-align: center"}
+
+Awesome live OJS graphs come here, but not working out of my computer.
+***Will be back soon!***
+
+:::
+
+![](images/loading2.gif){fig-align="center" width="300"}
+
+
+## How we code at BRIC? {.poll visibility="hidden"} 
 
 ```{ojs}
 md`Poll results (Respondents: ${respondentCount})`
